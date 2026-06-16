@@ -1,3 +1,5 @@
+package array_and_hashing.ContainsDuplicates;
+
 import java.util.HashSet;
 import java.util.Arrays;
 import java.util.Set;

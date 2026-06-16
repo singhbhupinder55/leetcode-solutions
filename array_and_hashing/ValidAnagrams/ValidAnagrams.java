@@ -1,4 +1,4 @@
-package array_&_hashing.ValidAnagrams;
+package array_and_hashing.ValidAnagrams;
 
 import java.util.HashMap;
 import java.util.Hashtable;
