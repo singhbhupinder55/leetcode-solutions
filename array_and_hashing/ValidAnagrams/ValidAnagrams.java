@@ -1,7 +1,6 @@
 package array_and_hashing.ValidAnagrams;
 
 import java.util.HashMap;
-import java.util.Hashtable;
 import java.util.Arrays;
 
 public class ValidAnagrams { 
